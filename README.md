@@ -1,7 +1,7 @@
 # Extraclase-1-de-Datos-II
 
 Todo lo siguiente programado en C++:
-/ Lista enzalada
+Lista enzalada
 / Lista doblemenmente enlazada
 / Lista Circular
 / Arbol de busqueda binaria
