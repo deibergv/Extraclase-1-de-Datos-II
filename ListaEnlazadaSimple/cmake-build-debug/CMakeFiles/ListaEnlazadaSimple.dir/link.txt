@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ListaEnlazadaSimple.dir/main.cpp.o CMakeFiles/ListaEnlazadaSimple.dir/List.cpp.o CMakeFiles/ListaEnlazadaSimple.dir/Node.cpp.o  -o ListaEnlazadaSimple 

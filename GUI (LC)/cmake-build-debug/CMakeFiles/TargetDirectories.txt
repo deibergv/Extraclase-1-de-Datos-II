@@ -1,0 +1,4 @@
+/home/deiber/CLionProjects/GUI (LC)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/deiber/CLionProjects/GUI (LC)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/deiber/CLionProjects/GUI (LC)/cmake-build-debug/CMakeFiles/GUI__LC_.dir
+/home/deiber/CLionProjects/GUI (LC)/cmake-build-debug/CMakeFiles/GUI__LC__autogen.dir

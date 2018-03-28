@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/deiber/CLionProjects/ArbolBB/Node.cpp
+Node.h
+/home/deiber/CLionProjects/ArbolBB/Node.h
+
+/home/deiber/CLionProjects/ArbolBB/Node.h
+iostream
+-
+
+/home/deiber/CLionProjects/ArbolBB/Tree.cpp
+Tree.h
+/home/deiber/CLionProjects/ArbolBB/Tree.h
+
+/home/deiber/CLionProjects/ArbolBB/Tree.h
+fstream
+-
+iostream
+-
+string
+-
+stdlib.h
+-
+Node.h
+/home/deiber/CLionProjects/ArbolBB/Node.h
+Node.cpp
+/home/deiber/CLionProjects/ArbolBB/Node.cpp
+
+/home/deiber/CLionProjects/ArbolBB/main.cpp
+iostream
+-
+Tree.h
+/home/deiber/CLionProjects/ArbolBB/Tree.h
+Tree.cpp
+/home/deiber/CLionProjects/ArbolBB/Tree.cpp
+

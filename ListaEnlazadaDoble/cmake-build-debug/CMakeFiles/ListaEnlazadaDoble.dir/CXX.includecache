@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/deiber/CLionProjects/ListaEnlazadaDoble/List.cpp
+List.h
+/home/deiber/CLionProjects/ListaEnlazadaDoble/List.h
+
+/home/deiber/CLionProjects/ListaEnlazadaDoble/List.h
+fstream
+-
+iostream
+-
+string
+-
+stdlib.h
+-
+Node.h
+/home/deiber/CLionProjects/ListaEnlazadaDoble/Node.h
+Node.cpp
+/home/deiber/CLionProjects/ListaEnlazadaDoble/Node.cpp
+
+/home/deiber/CLionProjects/ListaEnlazadaDoble/Node.cpp
+Node.h
+/home/deiber/CLionProjects/ListaEnlazadaDoble/Node.h
+
+/home/deiber/CLionProjects/ListaEnlazadaDoble/Node.h
+iostream
+-
+
+/home/deiber/CLionProjects/ListaEnlazadaDoble/main.cpp
+iostream
+-
+List.h
+/home/deiber/CLionProjects/ListaEnlazadaDoble/List.h
+List.cpp
+/home/deiber/CLionProjects/ListaEnlazadaDoble/List.cpp
+
